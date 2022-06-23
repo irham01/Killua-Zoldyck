@@ -1,21 +1,21 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "8b9c52bb1310"
   },
   "options": {
-    "autoRead": false,
+    "autoRead": true,
     "self": false,
     "limitCount": 20,
     "limitGame": 20
   },
   "exif": {
-    "packname": "zenzapi",
-    "author": "https://zenzapi.xyz"
+    "packname": "WhatsAppBOT",
+    "author": "Irham"
   },
   "owner": [
-    "62812xxx"
+    "6285601517617"
   ],
   "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "footer": "Powered by https://instagram.com/irhamibra"
 }
